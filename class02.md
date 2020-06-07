@@ -30,9 +30,10 @@ When creating a web page, you add tags (known as markup) to the contents of the 
 ``` <blockquote cite="http://en.wikipedia.org/wiki/ Winnie-the-Pooh">  <p>Did you ever stop to think, and forget to start    again?</p> </blockquote> <p>As A.A. Milne said, <q>Some people talk to   animals. Not many listen though. That's the   problem.</q></p> ```
 ## Introducing CSS
 CSS is used to give style for every html tags ,those styles include but not limitd to font size and color ,background color ,borders,padding and aligning text and images . You can ad style either inline or internally or you can link an extrnal css to the html .
-![Image](/Users/Waleed/ltuc2/201/css 1.png)
-![Image](/Users/Waleed/ltuc2/201/css 2.png)
+![Image](/css 1.png)
+![Image](/css 2.png)
 ## baisc javascript 
+
 What is javascript , It is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. 
 
 ``` /* This script displays a greeting to the user based upon the current time. It is an example from JavaScript & jQuery book */ 

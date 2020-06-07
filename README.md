@@ -6,8 +6,7 @@ This website is for all the reading notes of my 201 course.
 
 Read#  | link
 ---------|--------
-Read: 01 - Introductory HTML and JavaScript
-|[link](https://waleedfarraj.github.io/reading-notes/class01)
+Read: 01 - Introductory HTML and JavaScript|[link](https://waleedfarraj.github.io/reading-notes/class01)
 Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link](https://waleedfarraj.github.io/reading-notes/class02)
 read3    |[link]()
 read4    |[link]()
