@@ -6,7 +6,7 @@ This website is for all the reading notes of my 201 course.
 
 Read#  | link
 ---------|--------
-read1    |[link]()
+read1    |[link](https://waleedfarraj.github.io/reading-notes/class01)
 read2    |[link]()
 read3    |[link]()
 read4    |[link]()
