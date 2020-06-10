@@ -11,7 +11,7 @@ can add add Relative URLs  when linking to pages within your own
 website. They provide a shorthand way of telling the browser where to
 find your files.
 To create a link that starts up the user's email program and
-addresses an email to a specifie  email address, you use the <a>
+addresses an email to a specifie  email address, you use the `<a>`
 element. However, this time the value of the href attribute starts
 with mailto: and is followed by the email address you want the
 email to be sent to.
@@ -73,7 +73,7 @@ liquid layout from it is name is more fluid and responsive to diffrent sreen siz
 
 
 ![liquid](/images/liquid.png)
-![liquid](/images/fixed.png)
+![fixed](/images/fixed.png)
 
 ## Functions
 Browsers require very detailed instructions about what
