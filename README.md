@@ -9,7 +9,7 @@ Read#  | link
 Read: 01 - Introductory HTML and JavaScript|[link](https://waleedfarraj.github.io/reading-notes/class01)
 Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link](https://waleedfarraj.github.io/reading-notes/class02)
  Read: 03 - HTML Lists, CSS Boxes, JS Control Flow  |[link](https://waleedfarraj.github.io/reading-notes/class03)
-read4    |[link]()
+read4 # Read: 04 - HTML Links, CSS Layout, JS Functions   |[link](https://waleedfarraj.github.io/reading-notes/class04))
 read5    |[link]()
 read6    |[link]()
 read7    |[link]()
