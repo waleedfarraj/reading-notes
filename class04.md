@@ -72,8 +72,8 @@ with diffrent resolution system .
 liquid layout from it is name is more fluid and responsive to diffrent sreen sizes and diffrent setting that the user might have on his end  and fixed width layouts are static ,both have some advantages and disadvantages .
 
 
-![liquid](/images/liquid.png)
-![fixed](/images/fixed.png)
+![liquid](/images/liquid.PNG)
+![fixed](/images/fixed.PNG)
 
 ## Functions
 Browsers require very detailed instructions about what
