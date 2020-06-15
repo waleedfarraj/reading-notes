@@ -58,7 +58,7 @@ floated.
 - you can use float to make pargraphs go next to each other by controloing the box dimensions,
 width,margin,padding.The clear property allows you to say that no element (within
 the same containing element) should touch the left or righthand sides of a box.
-## screen sizes 
+
 - When designing a web page you need to keep in mind the most if not all the sizes of the divces that the vistor's will be using . aswell as the resouloution .
 -Because screen sizes and display resolutions vary so much, web
 designers often try to create pages of around 960-1000 pixels wide
@@ -66,4 +66,8 @@ designers often try to create pages of around 960-1000 pixels wide
 - many designs still try to let the user know what the site is about within the top 570-
 600 pixels, as well as hint at more content below this point.
 But do not try to cram too much into that top area.
--  and again there is fixed with layouts and liquid width layouts 
+-  and again there is fixed with layouts and liquid width layouts .baiscally you can have more control in fixed layouts  and you have more fluidity in liquid layouts but not as much control whcich can make the page look clunky at times .
+-Grids set consistent proportions
+and spaces between items which
+helps to create a professional
+looking design. 
