@@ -12,7 +12,7 @@ Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link
 read4 # Read: 04 - HTML Links, CSS Layout, JS Functions   |[link](https://waleedfarraj.github.io/reading-notes/class04)
 read5    |[link](https://waleedfarraj.github.io/reading-notes/class05)
 read6    |[link](https://waleedfarraj.github.io/reading-notes/class06)
-read7    |[link]()
+read7    |[link](https://waleedfarraj.github.io/reading-notes/class07)
 read8    |[link]()
 read9    |[link]()
 read10   |[link]()

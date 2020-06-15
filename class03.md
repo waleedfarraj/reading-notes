@@ -14,3 +14,4 @@ Each case indicates a possible value for this variable and the code that should 
 - loops : there are used to save time on typing code for repatitve operation there are many ways to make loops depening on if the time of itteration are known or not and depending on the purpose of the loop . you can see more information about it in this image.
 
 ![loops](/images/loops.png)
+`<d>`
