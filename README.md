@@ -28,4 +28,4 @@ read14b    |[link](https://waleedfarraj.github.io/reading-notes/class14b)
 ## Code 301 reading notes
 Read#  | link
 ---------|--------
-Read: 01 - SMACSS and Responsive Web Design|[link](https://waleedfarraj.github.io/reading-notes/class01)
+Read: 01 - SMACSS and Responsive Web Design|[link](https://waleedfarraj.github.io/reading-notes/301class01)
