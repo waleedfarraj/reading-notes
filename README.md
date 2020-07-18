@@ -1,4 +1,7 @@
-# Code 201 reading notes
+
+# Reading notes
+
+## Code 201 reading notes
 
 This website is for all the reading notes of my 201 course.
 
@@ -22,3 +25,7 @@ read13     |[link](https://waleedfarraj.github.io/reading-notes/class13)
 read14     |[link](https://waleedfarraj.github.io/reading-notes/class14a)
 read14b    |[link](https://waleedfarraj.github.io/reading-notes/class14b)
 
+## Code 301 reading notes
+Read#  | link
+---------|--------
+Read: 01 - SMACSS and Responsive Web Design|[link](https://waleedfarraj.github.io/reading-notes/class01)
