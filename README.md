@@ -29,3 +29,4 @@ read14b    |[link](https://waleedfarraj.github.io/reading-notes/class14b)
 Read#  | link
 ---------|--------
 Read: 01 - SMACSS and Responsive Web Design|[link](https://waleedfarraj.github.io/reading-notes/301class01)
+Read: 02  jQuery, Events, and The DOM -  |[link](https://waleedfarraj.github.io/reading-notes/301class02)
