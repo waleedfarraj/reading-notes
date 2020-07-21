@@ -31,3 +31,4 @@ Read#  | link
 Read: 01 - SMACSS and Responsive Web Design|[link](https://waleedfarraj.github.io/reading-notes/301class01)
 Read: 02  jQuery, Events, and The DOM -  |[link](https://waleedfarraj.github.io/reading-notes/301class02)
 Read: 03 - Flexbox and Templating -  |[link](https://waleedfarraj.github.io/reading-notes/301class03)
+Read: 04 - Responsive Web Design and Regular Expressions -  |[link](https://waleedfarraj.github.io/reading-notes/301class04)
