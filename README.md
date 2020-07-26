@@ -34,3 +34,4 @@ Read: 03 - Flexbox and Templating -  |[link](https://waleedfarraj.github.io/read
 Read: 04 - Responsive Web Design and Regular Expressions -  |[link](https://waleedfarraj.github.io/reading-notes/301class04)
 Read: 05 - Heroku Deployment-  |[link](https://waleedfarraj.github.io/reading-notes/301class05)
 Read: 06 - Node, Express, and APIs -  |[link](https://waleedfarraj.github.io/reading-notes/301class06)
+Read: 07 - APIs continued -  |[link](https://waleedfarraj.github.io/reading-notes/301class07)
