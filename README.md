@@ -37,3 +37,4 @@ Read: 06 - Node, Express, and APIs -  |[link](https://waleedfarraj.github.io/rea
 Read: 07 - APIs continued -  |[link](https://waleedfarraj.github.io/reading-notes/301class07)
 Read: 08 - SQL -  |[link](https://waleedfarraj.github.io/reading-notes/301class08)
 Read: 09 - Refactoring- |[link](https://waleedfarraj.github.io/reading-notes/301class09)
+Read: 10 - EJS |[link](https://waleedfarraj.github.io/reading-notes/301class10)
