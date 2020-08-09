@@ -39,3 +39,4 @@ Read: 08 - SQL   |[link](https://waleedfarraj.github.io/reading-notes/301class08
 Read: 09 - Refactoring- |[link](https://waleedfarraj.github.io/reading-notes/301class09)
 Read: 11 - EJS |[link](https://waleedfarraj.github.io/reading-notes/301class10)
 Read: 12 - Components  |[link](https://waleedfarraj.github.io/reading-notes/301class12)
+Read: 13 - Update/Delete  |[link](https://waleedfarraj.github.io/reading-notes/301class13)
