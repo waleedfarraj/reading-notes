@@ -40,3 +40,5 @@ Read: 09 - Refactoring- |[link](https://waleedfarraj.github.io/reading-notes/301
 Read: 11 - EJS |[link](https://waleedfarraj.github.io/reading-notes/301class10)
 Read: 12 - Components  |[link](https://waleedfarraj.github.io/reading-notes/301class12)
 Read: 13 - Update/Delete  |[link](https://waleedfarraj.github.io/reading-notes/301class13)
+Read: 14a - DB Normalization   |[link](https://waleedfarraj.github.io/reading-notes/301class14a)
+Read: 14b - Project Ideas & APIs  |[link](https://waleedfarraj.github.io/reading-notes/301class14b)
