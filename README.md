@@ -42,3 +42,4 @@ Read: 12 - Components  |[link](https://waleedfarraj.github.io/reading-notes/301c
 Read: 13 - Update/Delete  |[link](https://waleedfarraj.github.io/reading-notes/301class13)
 Read: 14a - DB Normalization   |[link](https://waleedfarraj.github.io/reading-notes/301class14a)
 Read: 14b - Project Ideas & APIs  |[link](https://waleedfarraj.github.io/reading-notes/301class14b)
+Read: 15 - Diversity and Inclusion  |[link](https://waleedfarraj.github.io/reading-notes/301class15)
