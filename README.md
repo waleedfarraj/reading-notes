@@ -43,3 +43,8 @@ Read: 13 - Update/Delete  |[link](https://waleedfarraj.github.io/reading-notes/3
 Read: 14a - DB Normalization   |[link](https://waleedfarraj.github.io/reading-notes/301class14a)
 Read: 14b - Project Ideas & APIs  |[link](https://waleedfarraj.github.io/reading-notes/301class14b)
 Read: 15 - Diversity and Inclusion  |[link](https://waleedfarraj.github.io/reading-notes/301class15)
+
+## Code 401 reading notes
+Read#  | link
+---------|--------
+Read: 01 - Node Ecosystem, TDD, CI/CD |[link](https://waleedfarraj.github.io/reading-notes/401class01)
