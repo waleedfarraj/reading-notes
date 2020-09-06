@@ -49,3 +49,4 @@ Read#  | link
 ---------|--------
 Read: 00 - Engineering topics |[link](https://waleedfarraj.github.io/reading-notes/401class00)
 Read: 01 - Node Ecosystem, TDD, CI/CD |[link](https://waleedfarraj.github.io/reading-notes/401class01)
+Read: 02 - Node Ecosystem, TDD, CI/CD |[link](https://waleedfarraj.github.io/reading-notes/401class02)
