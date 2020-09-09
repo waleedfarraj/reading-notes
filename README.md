@@ -52,3 +52,4 @@ Read: 01 - Node Ecosystem, TDD, CI/CD |[link](https://waleedfarraj.github.io/rea
 Read: 02 - classes,inhartince etc |[link](https://waleedfarraj.github.io/reading-notes/401class02)
 Read: 03 -  Data Modeling & NoSQL Databases|[link](https://waleedfarraj.github.io/reading-notes/401class03)
 Read: 04 - Advanced Mongo/Mongoose|[link](https://waleedfarraj.github.io/reading-notes/401class04)
+Read: 05 - Implementation: Linked Lists|[link](https://waleedfarraj.github.io/reading-notes/401class05)
