@@ -55,3 +55,4 @@ Read: 04 - Advanced Mongo/Mongoose|[link](https://waleedfarraj.github.io/reading
 Read: 05 - Implementation: Linked Lists|[link](https://waleedfarraj.github.io/reading-notes/401class05)
 read: 06 - RESTFULL api | (https://waleedfarraj.github.io/reading-notes/401class06)
 read: 07 - Express | (https://waleedfarraj.github.io/reading-notes/401class07)
+read: 08 - Express | (https://waleedfarraj.github.io/reading-notes/401class08)
