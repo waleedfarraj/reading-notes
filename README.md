@@ -56,3 +56,4 @@ Read: 05 - Implementation: Linked Lists|[link](https://waleedfarraj.github.io/re
 read: 06 - RESTFULL api | (https://waleedfarraj.github.io/reading-notes/401class06)
 read: 07 - Express | (https://waleedfarraj.github.io/reading-notes/401class07)
 read: 08 - Express | (https://waleedfarraj.github.io/reading-notes/401class08)
+read: 08 - Router paramter | (https://waleedfarraj.github.io/reading-notes/401class09)
