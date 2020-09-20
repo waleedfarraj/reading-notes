@@ -59,4 +59,5 @@ read: 08 - Express | [link](https://waleedfarraj.github.io/reading-notes/401clas
 read: 09 - Router paramter | [link](https://waleedfarraj.github.io/reading-notes/401class09) 
 read: 10 - Implementation: Stacks and Queues| [link](https://waleedfarraj.github.io/reading-notes/401class10) 
 read: 11 - Authentication| [link](https://waleedfarraj.github.io/reading-notes/401class11) 
+read: 11 - Oath sAuthentication| [link](https://waleedfarraj.github.io/reading-notes/401class12) 
 
