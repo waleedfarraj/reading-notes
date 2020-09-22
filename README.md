@@ -61,4 +61,5 @@ read: 10 - Implementation: Stacks and Queues| [link](https://waleedfarraj.github
 read: 11 - Authentication| [link](https://waleedfarraj.github.io/reading-notes/401class11) 
 read: 12 - Oath sAuthentication| [link](https://waleedfarraj.github.io/reading-notes/401class12) 
 read: 13 - Bearer Authorization| [link](https://waleedfarraj.github.io/reading-notes/401class13) 
+read: 14 - Bearer Authorization| [link](https://waleedfarraj.github.io/reading-notes/401class14) 
 
