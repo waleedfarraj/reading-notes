@@ -64,4 +64,6 @@ read: 13 - Bearer Authorization| [link](https://waleedfarraj.github.io/reading-n
 read: 14 - Bearer Authorization| [link](https://waleedfarraj.github.io/reading-notes/401class14) 
 read: 15 - tree| [link](https://waleedfarraj.github.io/reading-notes/401class15) 
 read: 16 - Event Driven Applications| [link](https://waleedfarraj.github.io/reading-notes/401class16) 
+read: 17 -TCP Servers| [link](https://waleedfarraj.github.io/reading-notes/401class17) 
+
 
