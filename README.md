@@ -66,5 +66,5 @@ read: 15 - tree| [link](https://waleedfarraj.github.io/reading-notes/401class15)
 read: 16 - Event Driven Applications| [link](https://waleedfarraj.github.io/reading-notes/401class16) 
 read: 17 -TCP Servers| [link](https://waleedfarraj.github.io/reading-notes/401class17) 
 read: 18 -socket IO| [link](https://waleedfarraj.github.io/reading-notes/401class18)
-
+read: 19 -Message Queues| [link](https://waleedfarraj.github.io/reading-notes/401class19)
 
