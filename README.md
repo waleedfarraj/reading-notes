@@ -69,4 +69,5 @@ read: 18 -socket IO| [link](https://waleedfarraj.github.io/reading-notes/401clas
 read: 19 -Message Queues| [link](https://waleedfarraj.github.io/reading-notes/401class19)
 read: 26 -Component Based UI| [link](https://waleedfarraj.github.io/reading-notes/401class20)
 read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class27)
+read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class28)
 
