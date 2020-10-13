@@ -70,4 +70,6 @@ read: 19 -Message Queues| [link](https://waleedfarraj.github.io/reading-notes/40
 read: 26 -Component Based UI| [link](https://waleedfarraj.github.io/reading-notes/401class20)
 read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class27)
 read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class28)
+read: 29 -Routing| [link](https://waleedfarraj.github.io/reading-notes/401class29)
+
 
