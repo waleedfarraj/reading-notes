@@ -71,5 +71,6 @@ read: 26 -Component Based UI| [link](https://waleedfarraj.github.io/reading-note
 read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class27)
 read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/401class28)
 read: 29 -Routing| [link](https://waleedfarraj.github.io/reading-notes/401class29)
+read: 30 -Hash| [link](https://waleedfarraj.github.io/reading-notes/401class30)
 
 
