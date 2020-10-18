@@ -73,3 +73,5 @@ read: 27 -Props and State| [link](https://waleedfarraj.github.io/reading-notes/4
 read: 29 -Routing| [link](https://waleedfarraj.github.io/reading-notes/401class29)
 read: 30 -Hash| [link](https://waleedfarraj.github.io/reading-notes/401class30)
 read: 31 -Hooks| [link](https://waleedfarraj.github.io/reading-notes/401class31) 
+read: 32 -Advanced| [link](https://waleedfarraj.github.io/reading-notes/401class32) 
+
