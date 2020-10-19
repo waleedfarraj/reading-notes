@@ -74,4 +74,5 @@ read: 29 -Routing| [link](https://waleedfarraj.github.io/reading-notes/401class2
 read: 30 -Hash| [link](https://waleedfarraj.github.io/reading-notes/401class30)
 read: 31 -Hooks| [link](https://waleedfarraj.github.io/reading-notes/401class31) 
 read: 32 -Advanced| [link](https://waleedfarraj.github.io/reading-notes/401class32) 
+read: 33 -Context API| [link](https://waleedfarraj.github.io/reading-notes/401class33) 
 
