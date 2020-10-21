@@ -77,3 +77,5 @@ read: 32 -Advanced| [link](https://waleedfarraj.github.io/reading-notes/401class
 read: 33 -Context API| [link](https://waleedfarraj.github.io/reading-notes/401class33) 
 read: 34 -login and auth| [link](https://waleedfarraj.github.io/reading-notes/401class34) 
 
+read: 35 -login and auth| [link](https://waleedfarraj.github.io/reading-notes/401class35) 
+
