@@ -82,4 +82,6 @@ read: 35 -login and auth| [link](https://waleedfarraj.github.io/reading-notes/40
 read: 36 -Application State| [link](https://waleedfarraj.github.io/reading-notes/401class36) 
 read: 37 -Redux - Combined Reducer| [link](https://waleedfarraj.github.io/reading-notes/401class37) 
 
-read: 38 -Redux - Asynchronous | [link](https://waleedfarraj.github.io/reading-notes/401class37) 
+read: 38 -Redux - Asynchronous | [link](https://waleedfarraj.github.io/reading-notes/401class38) 
+
+read: 39 -Redux - Toolkit | [link](https://waleedfarraj.github.io/reading-notes/401class39) 
