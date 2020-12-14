@@ -26,3 +26,6 @@ GOOD luck solving these i hope you found them  as usefull as i did one last note
 
 
 
+# WHY 
+:baby:
+:skull_and_crossbones:
